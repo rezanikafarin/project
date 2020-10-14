@@ -6,6 +6,14 @@
 	padding: 0;
 }
 
+.reza{
+	color : red;
+	backgroundcolor : blue;
+	width : 500px;
+	height : 100px
+		
+}
+
 .wrapper
 {
 	margin-right: auto;
